@@ -1,0 +1,327 @@
+<rml>
+<head>
+    <link type="text/css" href="menu.rcss"/>
+    <link type="text/css" href="scrollbar.rcss"/>
+    <style>
+
+.scrollbox {
+    display: block;
+    width:  100%;
+    height: 100%;
+    overflow-y: scroll;
+    -background: red;
+    text-align: center;
+}
+
+.clipper {
+    position: absolute;
+    display: block;
+    left: 433px;
+    width: 1100px;
+    height: 828px;
+    top:129px;
+    -background: red;
+}
+
+.scrollbox h1 {
+    display: block;
+    color: rgb(235,156,9);
+    font-size: 40pt;
+    padding: 10px;
+}
+
+.scrollbox h2 {
+    display: block;
+    color: rgb(235,156,9);
+    font-size: 28px;
+    padding: 5px;
+}
+
+.scrollbox p {
+    display: block;
+    color: white;
+    font-size: 24px;
+}
+
+.scrollbox p n {
+    color: rgb(189,219,255);
+}
+
+body {
+    background: rgba(0,0,0,170);
+}
+
+    </style>
+    <title>CREDITS</title>
+</head>
+
+<body id="menu-credits">
+
+<div class="game-menu" style="top:400px;display:none;">
+    <div id="dummy">DUMMY</div>
+</div>
+
+<div class="clipper">
+<div class="scrollbox">
+
+<h1>GENERAL ARCADE</h1>
+
+<h2>Programmers</h2>
+<p>Sergei Shubin</p>
+<p>Gennadiy <n>"termit"</n> Potapov</p>
+<h2>Artist</h2>
+<p>Anton Savinov</p>
+
+<h1>DEVOLVER DIGITAL</h1>
+
+<h2>El Presidente</h2>
+<p>Harry Miller</p>
+
+<h2>Fun Slinger</h2>
+<p>Mike Wilson</p>
+
+<h2>Distinguished Gentleman</h2>
+<p>Graeme Struthers</p>
+
+<h2>Cash Money</h2>
+<p>Rick Stults</p>
+
+<h2>Paralegal</h2>
+<p>Nigel Lowrie</p>
+
+<h1>Open-Source</h1>
+<h2>Based on JFDuke3D/EDuke32</h2>
+<p>Jonathon <n>"JonoF"</n> Fowler</p>
+<p>Richard <n>"TerminX"</n> Gobeille</p>
+<p>Pierre-Loup <n>"Plagman"</n> Griffais</p>
+<p>Philipp <n>"Helixhorned"</n> Kutin</p>
+<p>Special Thanks to the JFDuke3D and EDuke32 Team</p>
+
+<h1>3D REALMS</h1>
+
+<h2>Original Duke Nukem 3D Team</h2>
+
+<h2>Original Concept</h2>
+<p>Todd Repogle</p>
+<p>Allen H. Blum III</p>
+ 
+<h2>Produced & Directed By</h2>
+<p>Greg Malone</p>
+ 
+<h2>Executive Producer</h2>
+<p>George Broussard</p>
+ 
+<h2>BUILD Engine</h2>
+<p>Ken Silverman</p>
+ 
+<h2>Game Programming</h2>
+<p>Todd Repogle</p>
+ 
+<h2>3D Engine/Tools/Net</h2>
+<p>Ken Silverman</p>
+ 
+<h2>Network Layer/Setup Program</h2>
+<p>Mark Dochtermann</p>
+
+<h2>Map Design</h2>
+<p>Allen H Blum III</p>
+<p>Richard Gray</p>
+ 
+<h2>3D Modeling</h2>
+<p>Chuck Jones</p>
+<p>Sapphire Corporation</p>
+ 
+<h2>Artwork</h2>
+<p>Dirk Jones, Stephen Hornback</p>
+<p>James Storey, David Demaret</p>
+<p>Douglas R Wood</p>
+  
+<h2>Sound Engine</h2>
+<p>Jim Dose</p>
+ 
+<h2>Sound & Music Development</h2>
+<p>Robert Prince</p>
+<p>Lee Jackson</p>
+ 
+<h2>Voice Talent</h2>
+<p>Lani Minella - Voice Producer</p>
+<p>Jon St. John as "Duke Nukem"</p>
+ 
+<h2>Graphic Design</h2>
+PACKAGING, MANUAL, ADS
+<p>Robert M. Atkins</p>
+<p>Michael Hadwin</p>
+ 
+<h2>Special Thanks To</h2>
+<p>Steven Blackburn, Tom Hall
+Scott Miller, Joe Siegler
+Terry Nagy, Colleen Compton
+Hash Inc., Formgen, Inc.</p>
+  
+<h2>The 3D Realms Beta Testers</h2>
+<p>Nathan Anderson, Wayne Benner
+Glenn Brensinger, Rob Brown
+Erik Harris, Ken Heckbert
+Terry Herrin, Greg Hively
+Hank Leukart, Eric Baker
+Jeff Rausch, Kelly Rogers
+Mike Duncan, Doug Howell
+Bill Blair</p>
+
+
+<h2>Duke Nukem 3D: Atomic Edition Team</h2>
+
+<h2>Project Leader/Director</h2>
+<p>George <n>"Frame rate sucks"</n> Broussard</p>
+ 
+<h2>Assistant Director</h2>
+<p>Allen <n>"Done. Next?"</n> H. Blum III</p>
+  
+<h2>Game Programming</h2>
+<p>Todd <n>"How's the game running?"</n> Replogle</p>
+
+<h2>"Build" 3D engine/Tools/Network</h2>
+<p>Ken <n>"I can do that"</n> Silverman</p>
+ 
+<h2>Map Design</h2>
+
+<p>Allen <n>"Nice Hat!"</n> H. Blum III</p>
+<p>George <n>"Keyboarder"</n> Broussard</p>
+<p>Randall <n>"DuvalMagic"</n> S. Pitchford II</p>
+<p>Keith <n>"Duke maps are easy"</n> Schuler</p>
+
+<h2>3D Modeling</h2>
+
+<p>Chuck <n>"The animation is cookin"</n> Jones</p>
+
+<h2>Additional 3D Modeling</h2>
+<p>Douglas <n>"Hiccup... Kill me!!"</n> R. Wood</p>
+
+<h2>Artwork</h2>
+<p>Stephen <n>"Chillin"</n> Hornback</p>
+<p>Dirk <n>"Don't touch my toys"</n> Jones</p>
+<p>Brian <n>"Left MP in time"</n> Martel</p>
+<p>James <n>"Fish and Chips"</n> Storey</p>
+<p>Douglas <n>"Slippers"</n> R. Wood</p>
+
+<h2>Music and Sound Effects</h2>
+<p>Lee <n>"Make it louder"</n> Jackson</p>
+
+<h2>Voice Talent</h2>
+<p>Lani Minella - ProMotionsProd. Co.</p>
+<p>Jon St. Jon as "Duke Nukem"</p>
+
+<h2>Special Thanks to</h2>
+<p>Steve Blackburn</p>
+<p>Scott Miller</p>
+<p>Joe Siegler</p>
+<p>Terry Nagy</p>
+<p>Collen Compton</p>
+<p>Kevin Green</p>
+<p>Bryan Turner</p>
+<p>Dennis DeSmeth</p>
+<p>Tom Hall</p>
+<p>all the Realms beta testers</p>
+
+<h1>EXPANSIONS</h1>
+
+<h2>Duke It Out In D.C.</h2>
+
+<p>Sunstorm Interactive</p>
+
+<h2>President/Executive Producer</h2>
+<p>Anthony Campiti</p>
+
+<h2>Senior Level Design/Associate Producer</h2>
+<p>Robert Travis</p>
+
+<h2>Lead Artist/Level Design</h2>
+<p>Shawn Swift</p>
+
+<h2>Programmer/Level Design/Testing</h2>
+<p>Charlie Wiederhold</p>
+
+<h2>Special Thanks To</h2>
+<p>3D Realms</p>
+<p>WizardWorks</p>
+<p>GT Interactive</p>
+
+<h2>Duke: Nuclear Winter</h2>
+
+<p>Simply Silly Software</p>
+
+<h2>Original Concept</h2>
+<p>Joseph Wilcox</p>
+<p>V A Lowe</p>
+
+<h2>Map Design</h2>
+<p>Scott Haslam</p>
+<p>Krystian Palys</p>
+<p>Michael Clark</p>
+
+<h2>Artwork</h2>
+<p>V A Lowe</p>
+
+<h2>3D Modeling</h2>
+<p>Roger Tweedie</p>
+
+<h2>Actor Programming</h2>
+<p>Joris Weimar</p>
+
+<h2>Project Leader</h2>
+<p>Joseph Wilcox</p>
+
+<h2>Special Thanks To</h2>
+<p>George Broussard</p>
+<p>Peter Armstrong</p>
+<p>Rick Rayno</p>
+<p>Scott Miller</p>
+
+<h2>Voice Talent</h2>
+<p>Jon St. John as "Duke Nukem"</p>
+<p>J.D.Wilcox as "Santa"</p>
+
+<h2>Duke Caribbean: Life's A Beach</h2>
+
+<p>Sunstorm Interactive</p>
+
+<h2>Producer</h2>
+<p>Anthony Campiti</p>
+
+<h2>Lead Level Design</h2>
+<p>Robert Travis</p>
+
+<h2>Programming/Level Design</h2>
+<p>Charlie Wiederhold</p>
+
+<h2>Artwork/Voice SFX</h2>
+<p>Dave Manuel</p>
+
+<h2>Voice of Duke Nukem</h2>
+<p>Jon St. John</p>
+
+<h2>Artwork</h2>
+<p>Mike Buck</p>
+<p>Paul Jury</p>
+
+<h2>Level Design</h2>
+<p>Bill Buchalter</p>
+<p>Tyler Larson</p>
+<p>Shawn Swift</p>
+
+<h2>CON Programming</h2>
+<p>Joris Weimar</p>
+
+<h2>Music and SFX</h2>
+<p>Jenna Ramsey</p>
+
+<h2>Special Thanks To</h2>
+<p>GT Interactive</p>
+<p>Wizard Works</p>
+<p>3D Realms</p>
+
+</div>
+</div>
+
+</body>
+</rml>
